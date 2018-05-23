@@ -1,7 +1,13 @@
 # LST
 
 A Python package for the Learning Spaces theory.
+The aim of this project is to provide a set of tools
+to easily manipulate knowledge structures and to
+implement some key algorithms and techniques of the
+Learning Spaces theory.
 
+
+## Background
 
 The Learning Spaces theory by J.-P. Doignon and J.-C. Falmagne
 proposes a mathematical formalism for learning process.
@@ -25,3 +31,5 @@ such that it contains at least Q and ∅. A knowledge structure
 that is closed under a union is called _knowledge space_.
 A well-graded knowledge space (an antimatroid)
 is called a _learning space_.
+
+[Learning Spaces: Interdisciplinary Applied Mathematics](https://www.springer.com/gp/book/9783642010385)
