@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
 
-import objects
+from lst import objects
 from utility import is_family_union_closed, is_family_well_graded
 
 __author__ = 'isturunt'
